@@ -1,7 +1,7 @@
 import React from 'react';
 import cafenavi from './json/cafe.json';
 
-function Gnb() {
+function Cafe() {
     // 상위 메뉴 필터링
     const d1navi = cafenavi.filter((item) => item.prnum === "");
 
@@ -39,4 +39,4 @@ function Gnb() {
     );
 }
 
-export default Gnb;
+export default Cafe;
