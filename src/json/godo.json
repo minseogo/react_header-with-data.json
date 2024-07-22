@@ -1,0 +1,72 @@
+[
+    {
+        "gnbnm" : "우리의미션",
+        "gnblink" : "us_misson",
+        "prnum" : "0"
+    }, 
+    {
+        "gnbnm" : "미션",
+        "gnblink" : "misson",
+        "prnum" : "0|0"
+    },       
+    {
+        "gnbnm" : "소싱철학",
+        "gnblink" : "sourcing",
+        "prnum" : "0|1"
+    },       
+    {
+        "gnbnm" : "정기배송",
+        "gnblink" : "delivery",
+        "prnum" : "1"
+    },
+    {
+        "gnbnm" : "후기",
+        "gnblink" : "review",
+        "prnum" : "1|0"
+    },
+    {
+        "gnbnm" : "혜택",
+        "gnblink" : "benefit",
+        "prnum" : "1|1"
+    },
+    {
+        "gnbnm" : "이용안내",
+        "gnblink" : "guide",
+        "prnum" : "1|2"
+    },
+    {
+        "gnbnm" : "싱싱마켓",
+        "gnblink" : "market",
+        "prnum" : "2"
+    },
+    {
+        "gnbnm" : "인기상품",
+        "gnblink" : "best",
+        "prnum" : "2|0"
+    },
+    {
+        "gnbnm" : "대기중인상품",
+        "gnblink" : "stand_by",
+        "prnum" : "2|1"
+    },
+    {
+        "gnbnm" : "커뮤니티",
+        "gnblink" : "community",
+        "prnum" : "3"
+    },
+    {
+        "gnbnm" : "오늘의 레시피",
+        "gnblink" : "recipe",
+        "prnum" : "3|0"
+    },
+    {
+        "gnbnm" : "채소이야기",
+        "gnblink" : "vege_story",
+        "prnum" : "3|1"
+    },
+    {
+        "gnbnm" : "어글리어스 밥풀루언서",
+        "gnblink" : "bobfluencer",
+        "prnum" : "3|2"
+    }
+]
